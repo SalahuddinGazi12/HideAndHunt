@@ -1,0 +1,109 @@
+{
+  "Nodes": [
+    {
+      "Annotation": "all_tundra_nodes",
+      "Action": "",
+      "Inputs": [],
+      "Outputs": [],
+      "TargetDirectories": [],
+      "PassIndex": 0,
+      "Deps": [
+        1
+      ],
+      "OverwriteOutputs": true,
+      "FrontendResponseFiles": [],
+      "AllowUnexpectedOutput": true,
+      "AllowedOutputSubstrings": [],
+      "DebugActionIndex": 0
+    },
+    {
+      "Annotation": "Il2Cpp F:/Fahim/Updated Project/Mytestproject/HideAndHunt/Library/Il2cppBuildCache/Android/armeabi-v7a/Native/armeabi-v7a/libil2cpp.so",
+      "Action": "\"C:\\Program Files\\Unity\\Hub\\Editor\\2020.3.0f1\\Editor\\Data\\il2cpp/build/deploy/netcoreapp3.1/il2cpp.exe\" --convert-to-cpp --emit-null-checks --enable-array-bounds-check --dotnetprofile=\"unityaot\" --compile-cpp --libil2cpp-static --platform=\"Android\" --architecture=\"ARMv7\" --configuration=\"Release\" --outputpath=\"F:\\Fahim\\Updated Project\\Mytestproject\\HideAndHunt\\Library\\Il2cppBuildCache\\Android\\armeabi-v7a\\Native\\armeabi-v7a\\libil2cpp.so\" --cachedirectory=\"F:\\Fahim\\Updated Project\\Mytestproject\\HideAndHunt\\Assets\\..\\Library\\il2cpp_android_armeabi-v7a/il2cpp_cache\" --additional-include-directories=\"C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/PlaybackEngines/AndroidPlayer/Tools\\bdwgc/include\" --additional-include-directories=\"C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/PlaybackEngines/AndroidPlayer/Tools\\libil2cpp/include\" --baselib-directory=\"C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/PlaybackEngines/AndroidPlayer\\Variations\\il2cpp\\Release\\StaticLibs\\armeabi-v7a\" --avoid-dynamic-library-copy --tool-chain-path=\"C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/PlaybackEngines/AndroidPlayer/NDK\" --incremental-g-c-time-slice=3 --profiler-report --map-file-parser=\"C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/Tools/MapFileParser/MapFileParser.exe\" --directory=\"F:/Fahim/Updated Project/Mytestproject/HideAndHunt/Temp/StagingArea/assets/bin/Data/Managed\" --generatedcppdir=\"F:/Fahim/Updated Project/Mytestproject/HideAndHunt/Library/Il2cppBuildCache/Android/armeabi-v7a/il2cppOutput\"",
+      "Inputs": [
+        "F:/Fahim/Updated Project/Mytestproject/HideAndHunt/Temp/StagingArea/assets/bin/Data/Managed",
+        "F:/Fahim/Updated Project/Mytestproject/HideAndHunt/Temp/StagingArea/assets/bin/Data/Managed/Assembly-CSharp.dll",
+        "F:/Fahim/Updated Project/Mytestproject/HideAndHunt/Temp/StagingArea/assets/bin/Data/Managed/mscorlib.dll",
+        "F:/Fahim/Updated Project/Mytestproject/HideAndHunt/Temp/StagingArea/assets/bin/Data/Managed/System.Core.dll",
+        "F:/Fahim/Updated Project/Mytestproject/HideAndHunt/Temp/StagingArea/assets/bin/Data/Managed/System.dll",
+        "F:/Fahim/Updated Project/Mytestproject/HideAndHunt/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.AIModule.dll",
+        "F:/Fahim/Updated Project/Mytestproject/HideAndHunt/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.AndroidJNIModule.dll",
+        "F:/Fahim/Updated Project/Mytestproject/HideAndHunt/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.AnimationModule.dll",
+        "F:/Fahim/Updated Project/Mytestproject/HideAndHunt/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.AudioModule.dll",
+        "F:/Fahim/Updated Project/Mytestproject/HideAndHunt/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.CoreModule.dll",
+        "F:/Fahim/Updated Project/Mytestproject/HideAndHunt/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.dll",
+        "F:/Fahim/Updated Project/Mytestproject/HideAndHunt/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.GridModule.dll",
+        "F:/Fahim/Updated Project/Mytestproject/HideAndHunt/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.IMGUIModule.dll",
+        "F:/Fahim/Updated Project/Mytestproject/HideAndHunt/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.InputLegacyModule.dll",
+        "F:/Fahim/Updated Project/Mytestproject/HideAndHunt/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.Physics2DModule.dll",
+        "F:/Fahim/Updated Project/Mytestproject/HideAndHunt/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.PhysicsModule.dll",
+        "F:/Fahim/Updated Project/Mytestproject/HideAndHunt/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.SharedInternalsModule.dll",
+        "F:/Fahim/Updated Project/Mytestproject/HideAndHunt/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.SpriteShapeModule.dll",
+        "F:/Fahim/Updated Project/Mytestproject/HideAndHunt/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.TextRenderingModule.dll",
+        "F:/Fahim/Updated Project/Mytestproject/HideAndHunt/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.TilemapModule.dll",
+        "F:/Fahim/Updated Project/Mytestproject/HideAndHunt/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.UI.dll",
+        "F:/Fahim/Updated Project/Mytestproject/HideAndHunt/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.UIModule.dll"
+      ],
+      "Outputs": [
+        "F:/Fahim/Updated Project/Mytestproject/HideAndHunt/Library/Il2cppBuildCache/Android/armeabi-v7a/Native/armeabi-v7a/libil2cpp.so"
+      ],
+      "TargetDirectories": [
+        "F:/Fahim/Updated Project/Mytestproject/HideAndHunt/Library/Il2cppBuildCache/Android/armeabi-v7a/il2cppOutput"
+      ],
+      "PassIndex": 0,
+      "Deps": [],
+      "OverwriteOutputs": false,
+      "FrontendResponseFiles": [],
+      "AllowUnexpectedOutput": true,
+      "AllowedOutputSubstrings": [],
+      "DebugActionIndex": 1
+    }
+  ],
+  "FileSignatures": [
+    {
+      "File": "../../../../Temp/StagingArea/assets/bin/Data/Managed"
+    },
+    {
+      "File": "artifacts/buildprogram/tundra_buildprogram.dag.json"
+    },
+    {
+      "File": "il2cpp_settings.json"
+    },
+    {
+      "File": "unitylinker_settings.json"
+    }
+  ],
+  "GlobSignatures": [
+    {
+      "Path": "../../../../Temp/StagingArea/assets/bin/Data/Managed"
+    }
+  ],
+  "ContentDigestExtensions": [
+    ".rsp",
+    ".dll",
+    ".exe",
+    ".txt",
+    ".c",
+    ".cpp",
+    ".h",
+    ".cs",
+    ".hpp"
+  ],
+  "StructuredLogFileName": "artifacts/tundra.log.json",
+  "StateFileName": "artifacts/TundraBuildState.state",
+  "StateFileNameTmp": "artifacts/TundraBuildState.state.tmp",
+  "ScanCacheFileName": "artifacts/tundra.scancache",
+  "ScanCacheFileNameTmp": "artifacts/tundra.scancache.tmp",
+  "DigestCacheFileName": "artifacts/tundra.digestcache",
+  "DigestCacheFileNameTmp": "artifacts/tundra.digestcache.tmp",
+        "NamedNodes": {
+          "all_tundra_nodes": 0
+        }
+,  "DefaultNodes": [
+    0
+  ],
+  "SharedResources": [],
+  "Scanners": [],
+  "Identifier": "artifacts/tundra.dag.json",
+  "BuildTitle": "Bee",
+  "RelativePathToRoot": ".."
+}
